@@ -4,4 +4,4 @@ With simplicity and elegance in mind, I design efficient, ergonomic and reliable
 
 Passionate for code, with a strong focus on the business needs.
 
-Mainly Java and Python but I frequently venture outside that perimeter. Groovy, Go, Swift, Scala, C... are fair game. Full stack when applicable. Devops too.
+Mainly Python and Java but I frequently venture outside that perimeter. Go, Swift, Scala, Groovy, C... are fair game. Full stack when applicable. Devops too.
